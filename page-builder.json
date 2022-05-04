@@ -1,0 +1,1475 @@
+{
+  "layers": [
+    { "type": "FRAME", "width": 1366, "height": 1939, "x": 0, "y": 0 },
+    {
+      "type": "RECTANGLE",
+      "x": 135,
+      "y": 32,
+      "width": 308,
+      "height": 1875,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0.12549019607843137,
+            "b": 0.2901960784313726
+          },
+          "opacity": 1
+        }
+      ],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 166.90625,
+      "y": 471.984375,
+      "width": 244.328125,
+      "height": 2,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.10588235294117647,
+            "b": 0.19215686274509805,
+            "g": 0.14901960784313725
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 167,
+      "y": 64,
+      "width": 244,
+      "height": 408,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 167,
+      "y": 64,
+      "width": 244,
+      "height": 256,
+      "fills": [
+        {
+          "url": "https://drsantos20.github.io/img/profile-image.jpg",
+          "type": "IMAGE",
+          "scaleMode": "FILL",
+          "imageHash": null
+        }
+      ],
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.10588235294117647,
+            "b": 0.19215686274509805,
+            "g": 0.14901960784313725
+          },
+          "opacity": 1
+        }
+      ],
+      "strokeWeight": 8
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 443,
+      "y": 32,
+      "width": 771,
+      "height": 1875,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.29411764705882354,
+            "g": 0.4117647058823529,
+            "b": 0.5098039215686274
+          },
+          "opacity": 1
+        }
+      ],
+      "topLeftRadius": 0,
+      "topRightRadius": 60,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 578.390625,
+      "width": 3,
+      "height": 96,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 578,
+      "width": 353,
+      "height": 96,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 742.78125,
+      "width": 3,
+      "height": 144,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 743,
+      "width": 353,
+      "height": 144,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 955.171875,
+      "width": 3,
+      "height": 144,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 955,
+      "width": 353,
+      "height": 144,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 1311.5625,
+      "width": 3,
+      "height": 24,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 1312,
+      "width": 353,
+      "height": 24,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 1411.953125,
+      "width": 3,
+      "height": 24,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 1412,
+      "width": 353,
+      "height": 24,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 1686.34375,
+      "width": 3,
+      "height": 24,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 1686,
+      "width": 353,
+      "height": 24,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 825.65625,
+      "y": 1778.734375,
+      "width": 3,
+      "height": 24,
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6470588235294118,
+            "b": 0.6392156862745098,
+            "g": 0.6392156862745098
+          },
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "type": "RECTANGLE",
+      "x": 829,
+      "y": 1779,
+      "width": 353,
+      "height": 24,
+      "fills": [],
+      "topLeftRadius": 0,
+      "topRightRadius": 0,
+      "bottomRightRadius": 0,
+      "bottomLeftRadius": 0
+    },
+    {
+      "x": 225,
+      "y": 340,
+      "width": 129,
+      "height": 74,
+      "type": "TEXT",
+      "characters": "Daniel Santos",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 30,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "CENTER"
+    },
+    {
+      "x": 170,
+      "y": 430,
+      "width": 238,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Software Engineer",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 20,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "CENTER"
+    },
+    {
+      "x": 167,
+      "y": 520,
+      "width": 163,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Contact Info",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 20,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 198,
+      "y": 574,
+      "width": 161,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "+5511 912345678",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 202,
+      "y": 609,
+      "width": 211,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "drsantos20@gmail.com",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 199,
+      "y": 644,
+      "width": 181,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "drsantos20.dev.com",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 199,
+      "y": 679,
+      "width": 101,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "drsantos20",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 755,
+      "width": 77,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Skills",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 20,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 167,
+      "y": 810,
+      "width": 243,
+      "height": 44,
+      "type": "TEXT",
+      "characters": "Python3, Django, Flask & FastAPI",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 866,
+      "width": 47,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "Java",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 901,
+      "width": 181,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "JavaScript, VueJS",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 936,
+      "width": 134,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "HTML5 & CSS3",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 971,
+      "width": 147,
+      "height": 44,
+      "type": "TEXT",
+      "characters": "SQL, Postgres, MongoDB",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 1027,
+      "width": 123,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "Git & GitHub",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 167,
+      "y": 1062,
+      "width": 182,
+      "height": 22,
+      "type": "TEXT",
+      "characters": "Linux, Bash/Shell",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.8392156862745098,
+            "g": 0.8588235294117647,
+            "b": 0.8745098039215686
+          },
+          "opacity": 0.686
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif",
+      "textAlignHorizontal": "LEFT"
+    },
+    {
+      "x": 475,
+      "y": 96,
+      "width": 213,
+      "height": 48,
+      "type": "TEXT",
+      "characters": "About Me",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.4392156862745098,
+            "g": 0.7764705882352941,
+            "b": 0.7803921568627451
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 40,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 181,
+      "width": 656,
+      "height": 54,
+      "type": "TEXT",
+      "characters": "Software Engineer and community contributor (open source repositories), Distributed Systems, and Functional Programming passionate.",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 272,
+      "width": 635,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "Experienced with cloud providers such as AWS, Google Cloud Platform.",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 309,
+      "width": 706,
+      "height": 54,
+      "type": "TEXT",
+      "characters": "Over the past years, my main language is Python acting as a Software Engineer also as an Architect.",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 432,
+      "width": 253,
+      "height": 48,
+      "type": "TEXT",
+      "characters": "Experience",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.4392156862745098,
+            "g": 0.7764705882352941,
+            "b": 0.7803921568627451
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 40,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 512,
+      "width": 146,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Jet Bridge",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 548,
+      "width": 119,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "2021-Present",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 512,
+      "width": 239,
+      "height": 60,
+      "type": "TEXT",
+      "characters": "Senior Software Engineer",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 580,
+      "width": 322,
+      "height": 91,
+      "type": "TEXT",
+      "characters": "Working to keep and maintain a bioinformatics pipeline and workflows using tools like Python, Nextflow, Kafka, and Fast API",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 706,
+      "width": 69,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Voxy",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 743,
+      "width": 95,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "2018-2021",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 706,
+      "width": 271,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Software Engineer",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 745,
+      "width": 342,
+      "height": 139,
+      "type": "TEXT",
+      "characters": "Collaborate on leading design and implement a new student flow using Django Rest Framework and VueJS Lead design on and implement a migration from legacy mongo database into a SQL Postgres database",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 919,
+      "width": 112,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "99 Taxis",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 955,
+      "width": 95,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "2017-2018",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 919,
+      "width": 271,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Software Engineer",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 957,
+      "width": 344,
+      "height": 139,
+      "type": "TEXT",
+      "characters": "Collaborate with the Data Engineer team to create APIs to collect and ingest data in the data pipeline, also, lead a project to develop batch systems to scrape data from some data sources to populate internal databases",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1195,
+      "width": 236,
+      "height": 48,
+      "type": "TEXT",
+      "characters": "Education",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.4392156862745098,
+            "g": 0.7764705882352941,
+            "b": 0.7803921568627451
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 40,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1275,
+      "width": 143,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "PUC Minas",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1312,
+      "width": 119,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "2021-Present",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 1275,
+      "width": 316,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Software Engineering",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 1311,
+      "width": 301,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Associate of Software Engineer, 2021",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1376,
+      "width": 148,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Mackenzie",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1412,
+      "width": 95,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "2018-2021",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 1376,
+      "width": 117,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Big Data",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 1411,
+      "width": 183,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Graduate Course, 2018",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1540,
+      "width": 290,
+      "height": 48,
+      "type": "TEXT",
+      "characters": "Certificates",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.4392156862745098,
+            "g": 0.7764705882352941,
+            "b": 0.7803921568627451
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 2 },
+      "textCase": "UPPER",
+      "fontSize": 40,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1620,
+      "width": 106,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Elastic",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1656,
+      "width": 93,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "June 2018",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 1620,
+      "width": 341,
+      "height": 60,
+      "type": "TEXT",
+      "characters": "Elasticsearch Engineer I & II",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 1686,
+      "width": 298,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Issued Jun 2018 - No Expiration Date",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1742,
+      "width": 275,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Cloud Academy Inc.",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 475,
+      "y": 1779,
+      "width": 85,
+      "height": 32,
+      "type": "TEXT",
+      "characters": "Nov 2021",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 32 },
+      "fontSize": 18,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 829,
+      "y": 1742,
+      "width": 228,
+      "height": 30,
+      "type": "TEXT",
+      "characters": "Docker in Depth",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9921568627450981,
+            "g": 0.7058823529411765,
+            "b": 0.29411764705882354
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "textCase": "UPPER",
+      "fontSize": 25,
+      "fontFamily": "Roboto, sans-serif"
+    },
+    {
+      "x": 837,
+      "y": 1778,
+      "width": 300,
+      "height": 24,
+      "type": "TEXT",
+      "characters": "Issued Nov 2021 - No Expiration Date",
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.9450980392156862,
+            "g": 0.9725490196078431,
+            "b": 0.9921568627450981
+          },
+          "opacity": 1
+        }
+      ],
+      "letterSpacing": { "unit": "PIXELS", "value": 1 },
+      "lineHeight": { "unit": "PIXELS", "value": 24 },
+      "fontSize": 16,
+      "fontFamily": "Roboto, sans-serif"
+    }
+  ]
+}
